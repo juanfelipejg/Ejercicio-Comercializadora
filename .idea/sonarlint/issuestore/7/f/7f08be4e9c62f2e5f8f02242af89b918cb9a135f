@@ -1,0 +1,29 @@
+
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰°ôÉÿÿÿÿÿ8Õ³ª—ù.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯²ÿÿÿÿÿÿ8ˆâ˜ù.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Ï”Å¹úÿÿÿÿ8„‡¨—ù.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(Âö³¬8ˆâ˜ù.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(í™öşüÿÿÿÿ8¥¨›˜ù.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆÍæ‰üÿÿÿÿ8ˆâ˜ù.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×÷«ãÿÿÿÿÿ8ˆâ˜ù.
+m
+java:S1301$"KReplace this "switch" statement by "if" statements to increase readability.(¶ŸİÔùÿÿÿÿ8ŸÏ£—ù.
+T	java:S106("9Replace this use of System.out or System.err by a logger.(õÌşx8«‰¥—ù.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(Âö³¬8ˆâ˜ù.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(àäì‰ıÿÿÿÿ8‡Æ ˜ù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¢ÖŒ8ó¡š—ù.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(êš¼‰úÿÿÿÿ8ìòŸ˜ù.
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(§ûãT8ˆâ˜ù.
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(§ûãT8ˆâ˜ù.
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(ïü†8°ç›—ù.
+U
+java:S4973"9Use the "equals" method if value comparison was intended.(§ûãT8ˆâ˜ù.
+C	java:S131$""Add a default case to this switch.(¶ŸİÔùÿÿÿÿ8ŸÏ£—ù.
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å§úÿÿÿÿ8¬¦—ù.
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(ïü†8°ç›—ù.

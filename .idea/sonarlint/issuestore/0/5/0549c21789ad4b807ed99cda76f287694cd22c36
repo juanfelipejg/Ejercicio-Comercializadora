@@ -1,0 +1,15 @@
+
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(ß½ˆ“ÿÿÿÿÿ8Ü’ƒ–ù.
+t
+java:S1104	"RMake precio a static final constant or non-public and provide accessors if needed.(µ›å¤üÿÿÿÿ8‡‡¤–ù.
+[
+java:S5993"9Change the visibility of this constructor to "protected".(¥üîàýÿÿÿÿ8à­÷”ù.
+K
+java:S1068"/Remove this unused "procedencia" private field.(ôƒ™8¬™¢–ù.
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(ª«³°ûÿÿÿÿ8Ü’ƒ–ù.
+H
+java:S1068"&Remove this unused "id" private field.(ôç¼Óþÿÿÿÿ8Ëê¢–ù.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(Ûœƒ‹8Ü’ƒ–ù.
