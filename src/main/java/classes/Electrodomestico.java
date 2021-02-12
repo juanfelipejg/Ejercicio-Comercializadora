@@ -18,12 +18,18 @@ public abstract class Electrodomestico {
 
     //Metodo para calcular un precio base y ser reutilizado
     public double calcularPrecioInicial(){
-        if (this.consumo == "A"){
-            this.precio = 450.000;
-        }else if (this.consumo == "B"){
-            this.precio = 350.000;
-        }else if (this.consumo == "C"){
-            this.precio = 250.000;
+        if (this.consumo.equalsIgnoreCase("A")){
+            this.precio = 450000;
+        }else if (this.consumo.equalsIgnoreCase("B")){
+            this.precio = 350000;
+        }else if (this.consumo.equalsIgnoreCase("C")){
+            this.precio = 250000;
+        }
+
+        if (this.procedencia.equalsIgnoreCase("N")){
+            this.precio += 250000;
+        }else{
+            this.precio += 350000;
         }
         return this.precio;
     }

@@ -15,7 +15,7 @@ public class Nevera extends Electrodomestico{
         if(this.capacidad > 120){
             int diferencia = this.capacidad - 120;
             int excedente = diferencia / 10;
-            this.precio = this.precio * (0.05 * excedente);
+            this.precio += this.precio *(0.05 * excedente);
         }
         return this.precio;
     }

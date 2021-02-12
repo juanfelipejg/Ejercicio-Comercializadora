@@ -18,7 +18,7 @@ public class Televisor extends Electrodomestico{
             this.precio *=  1.3;
         }
         if (tdt){
-            this.precio +=  250.000;
+            this.precio +=  250000;
         }
         return this.precio;
     }
